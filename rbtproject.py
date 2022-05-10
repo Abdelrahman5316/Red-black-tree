@@ -219,7 +219,7 @@ while True:
         t1.print_treesize(t1.root)
 
     elif opt == "3":
-        x = input("Enter word U want to add")
+        x = input("Enter word U want to add: ")
         t1.insert_word(x, t1.root)
 
     elif opt == "4":
