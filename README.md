@@ -19,22 +19,22 @@ in this part:
 <br/>
     def load(self, root):
     <br/>
-        hand = open("EN-US-Dictionary.txt", "r")
+        <h6>    hand = open("EN-US-Dictionary.txt", "r")</h6>
 
 
 </p>
 <p>
-To load the dictionary:
+<h3>To load the dictionary:</h3>
 <br/>
 Enter 1
 <img src="assests/Screenshot (865).png"/>
 
-To check the size of the tree
+<h3>To check the size of the tree</h3>
 <br/>
 Enter 2
 <img src="assests/Screenshot (866).png"/>
 
-To insert a word
+<h3>To insert a word</h3>
 <br/>
 Enter 3
 <br/>
@@ -46,7 +46,7 @@ However if the word is present in the dictionary, it will display "Word already 
 
 <br/>
 
-To search for a word
+<h3>To search for a word</h3>
 <br/>
 Enter 4
 <br/>
