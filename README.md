@@ -54,6 +54,6 @@ if the word is present in the dictionary, it will display "Yes,word in the dicti
 <img src="assests/Screenshot (868).png"/>
 <br/>
 However if the word isn't in the dictionary, it will display "No,word isn't in the dictionary"
-<img src="assests/Screenshot (869).png>
+<img src="assests/Screenshot (869).png"/>
 
 </p>
